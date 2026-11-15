@@ -1,6 +1,22 @@
 # Claude-football-sims
 All files needed for Claude football sims: RBVA, Uplayer, youth structures.
 
+## Start here (for a new chat with no memory)
+
+Read these in order before setting up or continuing any football sim:
+
+| # | File | What it covers |
+|---|---|---|
+| 1 | [`guides/01_Workflow_and_File_Format.md`](guides/01_Workflow_and_File_Format.md) | How a campaign runs, who decides what, the season-file format, the chat reply, writing rules |
+| 2 | [`guides/02_Realism.md`](guides/02_Realism.md) | Rolls not judgement; ratings; coaches, cast, looks; youth rules; scouting; social media; the wider world |
+| 3 | [`guides/03_Models.md`](guides/03_Models.md) | Every model: development (rates, curve, catch-up, ageing, height), teams and matches (tactical integration, execution, goals, opponents, knockouts), approaches, social reach, the world |
+| 4 | [`guides/04_Perfect_Players.md`](guides/04_Perfect_Players.md) | What "perfect" means, the guarantee for every position, how the midfielder's guarantee is modelled |
+| 5 | [`guides/05_Universe_Facts.md`](guides/05_Universe_Facts.md) | World-building facts that aren't in a rulebook |
+| 6 | [`uplayer/Uplayer_Rulebook.md`](uplayer/Uplayer_Rulebook.md) | Uplayer: groups, selection, staff, pillars, Sundays, philosophy, social media |
+| 7 | The structure files below that the campaign uses |
+
+**The rulebooks are the source of truth.** Where a guide and a rulebook differ, the rulebook wins.
+
 ## Structure files (current versions)
 
 | File | What it covers |
