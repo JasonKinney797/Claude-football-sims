@@ -1,0 +1,363 @@
+# THE AMERICAN BASKETBALL CLUB SYSTEM
+## Official Rulebook
+### Announced in the 2026/27 season · Implemented in stages until the system is established and stable
+
+> One pyramid, from a county gym to the NBA Finals. Every club in a published division. Every player's path visible.
+
+*World-building rulebook for simulation campaigns. Real leagues, clubs and institutions are used; their adoption of these rules is fictional.*
+
+---
+
+## PART I: GOVERNANCE
+
+**Article 1. Governing bodies**
+1. **The NBA** runs tiers 1 and 2 (NBA and G League), their academies and youth leagues.
+2. **USA Basketball** runs tiers 3 and 4 (AAND and State Divisions), all national and state youth cups, licensing for tiers 3 and 4, and the official platform.
+3. A **Joint Pyramid Board** (NBA and USA Basketball) rules on promotion and relegation between tiers 2 and 3, on transfers between tiers, and on disputes.
+
+**Article 2. Federal assistance**
+1. The **US federal government** assists the system financially and administratively, as set out in the Federal Basketball Pyramid Programme (Part XIV).
+2. The government has no say in selection, results, promotion or relegation.
+
+**Article 3. Age groups**
+Age groups are set by **birth year**, not school grade.
+
+---
+
+## PART II: THE PYRAMID
+
+**Article 4. The tiers**
+
+| Tier | League | Clubs |
+|---|---|---|
+| 1 | **NBA** | 30 |
+| 2 | **G League** | 30 |
+| 3 | **American Amateur National Division (AAND)** | 64: East, Midwest, South and West conferences of 16 |
+| 4 | **State Divisions**: SD1 (statewide), SD2 (regional), SD3 (county or metro) | Open entry |
+
+**Article 5. Tier 4 naming**
+1. A division's name shows its level and where it plays: *[State] SD1* (the whole state), *[State] SD2 [Region]*, *[State] SD3 [County or metro area]*.
+2. Small states share combined SD1 leagues: *Mountain SD1* (Montana, Idaho, Wyoming), *Dakotas SD1*, *Northern New England SD1* (Maine, New Hampshire, Vermont). Their SD2 and SD3 divisions remain within each state.
+3. **Alaska and Hawaii** run their own leagues at every level.
+
+**Article 6. Division sizes**
+SD1 and SD2: 12–16 clubs. SD3: 8–16 clubs.
+
+---
+
+## PART III: TRANSPARENCY
+
+**Article 7. The official platform**
+1. Every division, club, fixture, result and table, from the NBA to the lowest SD3, is published on **one public platform and app**.
+2. Each division's clubs are published by **1 July** and do not change during the season.
+3. Every club's entry shows its name, home venue with address, colours, head coach and youth registration contact.
+4. The home club enters each result within **24 hours**; tables update automatically.
+5. No match that counts in a competition may be played outside a published division or cup.
+
+---
+
+## PART IV: LICENCES
+
+**Article 8. Club licences**
+
+| Licence | Required for | Key requirements |
+|---|---|---|
+| **NBA Club Licence** | Tier 1 | Arena of at least **15,000**; full academy U12–U19 with A teams; **women's teams from U16**; audited finances |
+| **G League Club Licence** | Tier 2 | Arena of at least **4,000**; academy U12–U19 (A teams); women's teams from U16; finances covering a full season |
+| **AAND Club Licence** | Tier 3 | Arena of at least **1,500**; academy with at least one team per age group U12–U19; **proof of national travel funding**; stable income; debt within set limits |
+| Tier 4 | — | No club licence; registration with the state |
+
+**Article 9. Academy grades**
+1. Every academy in tiers 1–3 is graded **Platinum**, **Gold** or **Silver**, on coaching qualifications, facilities, medical staff, education support and first-team minutes for academy players.
+2. Only **Platinum and Gold** academies may sign players from **outside their state before age 15**.
+
+**Article 10. Promotion requires a licence**
+A club may only be promoted if it holds the licence for the tier it is promoted to. If not, the next eligible club is promoted. If none is eligible, the club due to be relegated from that tier stays up.
+
+---
+
+## PART V: SENIOR COMPETITIONS
+
+**Article 11. NBA (tier 1)**
+1. **82 games**, October to April; East and West conferences; play-in and play-offs unchanged.
+2. **The NBA Cup** is kept.
+3. **Relegation:** the **two clubs with the worst regular-season records overall** are relegated to the G League.
+4. **Parachute payments:** a relegated club receives a decreasing share of NBA central income for **two seasons**, or until it returns.
+5. Salary cap and luxury tax are kept.
+
+**Article 12. G League (tier 2)**
+1. About **50 games**, November to April, in two conferences.
+2. **Promotion:** the **regular-season champion** and the **play-off winner**, if independent and licensed. Otherwise the next eligible club.
+3. **Relegation:** the bottom two clubs to the AAND.
+4. **Affiliates:** clubs owned by or affiliated to an NBA club **cannot be promoted**. If the NBA parent is relegated, the affiliation ends.
+5. Wages may not exceed **70% of the club's income**.
+
+**Article 13. AAND (tier 3)**
+1. Four conferences of 16; **30 games**, home and away within the conference, October to March.
+2. **National play-offs:** the top 4 of each conference, a 16-club bracket in April.
+3. **Promotion:** the **two best licensed clubs** in the national play-offs.
+4. **Relegation:** the **bottom club of each conference**, replaced by **four regional play-off winners** from the SD1 leagues.
+5. Contracts: amateur, semi-professional or professional.
+6. Wages may not exceed **70% of income**.
+
+**Article 14. State Divisions (tier 4)**
+1. In each division, the **top 2 are promoted** and the **bottom 2 relegated**, with play-offs where divisions merge into fewer above.
+2. **Promotion to the AAND:** finish in the top 2 of an SD1, hold an AAND licence, and win the regional play-off.
+
+**Article 15. The American Basketball Cup**
+1. Open to tiers 1–3 and the State SD1 champions.
+2. Entry: SD1 champions and AAND clubs first; then the G League; then the NBA.
+3. Single matches; the lower-tier club plays at home. Final in May.
+4. Starts **when ready**, as decided by the Joint Pyramid Board.
+
+---
+
+## PART VI: ACADEMIES AND YOUTH COMPETITIONS
+
+**Article 16. Academies**
+1. **Every club in tiers 1–3 must have an academy**, with at least **one team per age group, U12 to U19**. B teams are recommended.
+2. Tier 4 academies are optional.
+
+**Article 17. Youth leagues**
+1. Each tier runs its own youth leagues for its clubs' academies.
+2. Tier 4 runs **State Youth Leagues** with the same levels and naming: Youth SD1, SD2, SD3.
+3. **Youth divisions move on their own results**, not with the senior team's level.
+
+**Article 18. National Basketball Youth Cup (tiers 1–3)**
+1. Age groups **U14 and older**.
+2. Tier 3 academies play each other first; then tier 2 enters; then tier 1.
+
+**Article 19. State Youth Cup (tier 4)**
+1. Age groups **U14 and older**.
+2. SD3 teams play each other first; then SD2 enters; then SD1.
+
+**Article 20. Streaming**
+1. From **U13**, every youth league match in **tiers 1 and 2** is streamed.
+2. No streaming is required in tiers 3 and 4.
+3. **All youth cup matches** are streamed.
+4. Youth streaming rights are sold centrally and shared between academies, with a share reserved for education programmes.
+
+**Article 21. Pay-to-play**
+Charging players to play is **banned in tiers 1–3**. It is allowed in tier 4.
+
+**Article 22. School basketball**
+An academy player may also play **high school basketball** if his club allows it. Club matches are scheduled at **weekends** and high school games on **weekdays**.
+
+---
+
+## PART VII: PLAYER MOVEMENT
+
+**Article 23. Youth registration**
+Players register with **one club at a time**.
+
+**Article 24. U12–U14 (tiers 1–3)**
+1. Players may move **freely each summer**.
+2. The new club pays **training compensation** to the previous club.
+
+**Article 25. U15 and older (tiers 1–3)**
+1. Transfers are **negotiated** between clubs.
+2. Transfer windows: **1 July–31 August** and **January**.
+
+**Article 26. Tier 4**
+Players move **freely each summer, without fees**. Training compensation applies only when a tier 1–3 club signs a tier 4 player.
+
+**Article 27. Training compensation (per season trained)**
+
+| Buying club's tier | Per season |
+|---|---|
+| NBA | **$150,000** |
+| G League | **$50,000** |
+| AAND | **$15,000** |
+
+**Article 28. Players under professional contract**
+A player under a professional contract can only move for a **negotiated fee**, at any age.
+
+**Article 29. Senior transfers and trades**
+1. Transfers with fees and **trades** are both allowed.
+2. Windows: **1 July–31 August** and **January**.
+
+**Article 30. Loans**
+Loans are allowed from age **17**, including abroad. Minutes played on loan don't count for either club's homegrown rule.
+
+**Article 31. The NBA draft**
+**The NBA draft is abolished.**
+
+---
+
+## PART VIII: CONTRACTS
+
+**Article 32. First professional contract**
+1. At **14**, if the player is officially measured at **6'3" or taller** (boys) or **5'11" or taller** (girls).
+2. Otherwise at **16**.
+
+**Article 33. Height measurement**
+Shoes off, by the league's medical staff, **twice, six months apart**.
+
+**Article 34. Contracts for minors**
+1. At most **three years** until 18.
+2. **School attendance is compulsory.**
+3. Most earnings are paid into a **trust** the player receives at 18.
+4. A parent or legal guardian co-signs.
+
+**Article 35. Agents**
+Agents may approach a player only from **six months before he can sign a professional contract**: 13½ for players qualifying at 14, otherwise 15½.
+
+---
+
+## PART IX: THE HOMEGROWN RULE (TIERS 1 AND 2)
+
+**Article 36. Who is an academy player**
+1. A player trained at the club for at least **three seasons between ages 12 and 21**.
+2. A **university club player signed before 21** also counts, if he then spends at least **two seasons** in the signing club's academy or first team.
+3. At a **university club** (Part XVI), a student who has played for the club for **three seasons** counts as an academy player.
+
+**Article 37. The 10% rule**
+1. Each season, at least **two academy players** must play at least **10% of the first team's minutes combined** (about 1,970 minutes in the NBA; about 1,200 in the G League).
+2. Only **men's first-team** minutes count. A separate rule for women's teams will follow.
+
+**Article 38. Penalties**
+
+| Breach | Penalty |
+|---|---|
+| 1st | **Points deduction** (in the NBA, wins deducted from the regular-season record) |
+| 2nd consecutive season | **Transfer ban** |
+| 3rd | **Relegation** |
+
+---
+
+## PART X: COLLEGE BASKETBALL
+
+**Article 39. The NCAA continues**
+1. The **NCAA continues** to run college basketball, in Divisions I, II and III, for every university that **has not become a club**, and for the **B teams of university clubs** (Article 64).
+2. The **NCAA tournament (March Madness)** continues.
+3. The NAIA and the NJCAA continue unchanged.
+
+**Article 40. Pre-season matches**
+Every pre-season, each **NCAA Division I team** and each **university club first team in the AAND or higher** plays **one to three NBA clubs**.
+
+**Article 41. Signing college players**
+1. A pyramid club may sign an NCAA player or a university club player **into its academy** or **straight into its first team**.
+2. The university receives **training compensation at the buying club's tier rate** for each season the player trained there.
+3. For a player on a **student contract** or a professional contract, the clubs negotiate a fee (Part VII), which may not be lower than that training compensation.
+
+## PART XI: MOVING ABROAD
+
+**Article 42. US academy players to clubs abroad**
+1. From **13**, only if **at least one legal guardian** moves with the player; or from **18**, with an adult of the player's choice.
+2. The receiving club must prove it will pay **travel, housing**, and, if the player hasn't finished school, **education**.
+
+**Article 43. Foreign minors to US academies**
+The same conditions apply in reverse.
+
+**Article 44. Foreign players**
+No quota for adults.
+
+---
+
+## PART XII: MIXED TEAMS AND WOMEN'S BASKETBALL
+
+**Article 45. Mixed teams**
+1. **Tiers 3 and 4:** mixed teams allowed **at every age, including seniors**.
+2. **Tiers 1 and 2:** girls may play in boys' academy teams **up to and including U19**. At senior level, women play in the club's women's team.
+
+**Article 46. Women's teams**
+Tier 1 and 2 clubs must have women's teams **from U16 upwards**.
+
+**Article 47. Interim competitions**
+Until the women's system is designed: a **National Women's Academy League** (U16, U17, U19) and a **National Women's League** (seniors) for tier 1–2 clubs. The **WNBA** continues unchanged.
+
+**Article 48. Facilities and travel**
+Clubs with mixed teams provide separate changing rooms, and a female staff member on away trips with minors.
+
+---
+
+## PART XIII: FINANCE, COACHING AND SAFEGUARDING
+
+**Article 49. Wages**
+Tiers 2 and 3: wages may not exceed **70% of club income**. The NBA keeps its salary cap and luxury tax.
+
+**Article 50. Solidarity**
+A set share of NBA central television income is distributed to tiers 2–4: most to the G League, then the AAND, then State Division academies.
+
+**Article 51. Coaching**
+SD1 head coaches hold a national coaching certificate; SD2 and SD3 at least a basic certificate.
+
+**Article 52. Safeguarding**
+Every youth coach and staff member: background check and safeguarding training.
+
+---
+
+## PART XIV: THE FEDERAL BASKETBALL PYRAMID PROGRAMME
+
+**Article 53. Financial assistance**
+Federal grants for **academy facilities**, **gyms in underserved areas**, **travel funds for AAND and SD1 clubs**, and **education programmes** for academy players.
+
+**Article 54. Administrative assistance**
+A federal **Office for the Basketball Pyramid**, supporting:
+1. the official platform and its data;
+2. background checks for every youth coach;
+3. coordination with states on youth labour rules for contracts at 14 and 16;
+4. visas and education arrangements for players moving to and from the US.
+
+---
+
+## PART XV: IMPLEMENTATION
+
+**Article 55. Timetable**
+
+| Season | Stage |
+|---|---|
+| **2026/27** | Rulebook announced; academies begin building; G League clubs choose affiliation or independence; AAND and State Division applications open; the platform is built |
+| **2027/28** | Academies start: youth leagues in tiers 1–3; first National Basketball Youth Cup |
+| **Spring 2028** | **University clubs apply** for AAND licences or SD1 places, in the same round as other clubs; initial placement decided |
+| **2028/29** | The AAND and the State Divisions start; **university clubs' first teams** enter the pyramid and their **B teams** play in the NCAA |
+| **When established and stable** | First promotion and relegation between all tiers, including the NBA, as decided by the Joint Pyramid Board |
+| **The following season** | The homegrown rule becomes binding |
+
+**Article 56. Collective bargaining**
+Rules affecting NBA and G League players' contracts, including the end of the draft, take effect only once agreed with the **players' union** in the collective bargaining agreement.
+
+## PART XVI: UNIVERSITY CLUBS
+
+**Article 57. Who can apply**
+1. Any university or college may apply to enter the pyramid with its **varsity basketball team as a club**, under the university's name.
+2. Applications open in **spring 2028**, in the same licence round as other clubs.
+
+**Article 58. Initial placement**
+1. The best-licensed university clubs start in the **AAND**; the rest start in **SD1** of their state.
+2. **No university club starts in the G League or the NBA.**
+3. Placement is decided by the Joint Pyramid Board, on the club's licence and playing strength.
+
+**Article 59. No ceiling**
+A university club may be promoted to any tier, **including the NBA**, if it holds the required licence.
+
+**Article 60. Money**
+1. The **70% wage rule** applies to the university club's **basketball income only**.
+2. **Tuition income, endowments and other sports budgets may not fund the club's wages.**
+3. University clubs pay and receive training compensation and transfer fees like any club in their tier.
+
+**Article 61. Academies**
+1. A university club in tiers 1–3 must run its own **U17 and U19** teams.
+2. It may meet the **U12–U16** requirement through **partner academies**: local schools or clubs running those age groups under its name.
+
+**Article 62. Student contracts**
+1. A university club may offer a **student contract**: paid, with tuition and housing included.
+2. The player must stay **enrolled**, with **minimum credits each semester**, checked by the federal Office for the Basketball Pyramid.
+3. If a player fails the requirement, his contract becomes a normal **semi-professional contract** for the rest of its term.
+4. University clubs may also offer normal professional and semi-professional contracts.
+
+**Article 63. Women's basketball**
+1. A university club must fund **women's basketball to the same standard** as its men's club, in line with equal-treatment law.
+2. University women's teams may enter the interim **National Women's League** (Article 47).
+
+**Article 64. The compulsory NCAA B team**
+1. **Every university club must have a B team playing in the NCAA.** This is a condition of its club licence.
+2. The B team plays in the **NCAA division** the university belonged to before becoming a club.
+3. The B team is made up of **students outside the club's first-team squad**, mostly younger players.
+4. Players may be moved between the first team and the B team during the season.
+5. A player who plays **more than 10 pyramid matches** in a season may not play in that season's **NCAA tournament**.
+6. A university club without an NCAA B team **loses its club licence** and is placed in the lowest State Division level of its state the following season.
+
+---
+
+*World-building for simulation campaigns. The NBA, the G League, USA Basketball, the WNBA, the NCAA, all universities, clubs and leagues named are real; this rulebook and their adoption of it are fictional.*
