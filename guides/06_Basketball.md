@@ -110,3 +110,46 @@ Like the football midfielder's guarantee (`04_Perfect_Players.md` §3):
 | **First pro contract** | At 14 if officially measured at 6'3" or taller (twice, six months apart), otherwise at 16 (Arts. 32–33). Agents from six months before (Art. 35) |
 | **High school** | From 14, if his club allows it (Art. 22). That's the user's decision |
 | **Academies near Inglewood, 2026/27** | **Clippers** (NBA, Gold): Playa Vista, then their **Inglewood academy centre from December 2026**. **Lakers** (NBA, Gold): rented gyms in the South Bay. **Loyola Marymount** partner academy (AAND): Westchester, ~5 km. **No G League academy in LA** (the South Bay Lakers moved to the Coachella Valley; the San Diego Clippers are in Oceanside) |
+
+## 9. The street model (US Basketball campaign, approved)
+
+Rolled **once per season**. Each figure is the chance the event happens **at least once that season**, on a lower-income Inglewood block.
+
+| Event | Age 11–12 | 13–14 | 15–17 |
+|---|---|---|---|
+| Hears gunfire nearby | 40% | 50% | 55% |
+| Someone he knows is shot | 15% | 27% | 40% |
+| "Where you from?" / pressure to claim | 4% | 30% | 50% |
+| Robbed or jumped | 3% | 11% | 18% |
+| Stopped by police | 2% | 15% | 35% |
+| Joins a gang or starts claiming | 0.5% | 7% | 13% |
+| Shot | 0.2% | 0.9% | 3.6% |
+
+**Modifiers:**
+
+| Factor | Effect |
+|---|---|
+| No curfew | **+10%** |
+| A parent drives him | Robbery and claim pressure −30% (−15% if he takes the bus some days) |
+| Father involved and a structured club schedule | Claiming −50% |
+| Being known | Claim pressure −20%, robbery +50% |
+| His own traits: hates the hood and plans his exit | Claiming −50% |
+| His own traits: pre-mortem routes | Robbery −20% |
+| Moving | Everything resets to the new area's level |
+
+**It changes dynamically with his own choices:**
+- A **provocative social media post** (disrespecting a set or an area, signs, a beef): that season, claim pressure ×1.5, robbery ×1.3, shot ×1.5.
+- A **public beef that escalates**: ×2 on the same three.
+- **Ordinary trash talk at basketball rivals** doesn't count.
+
+**Consequences come only from the rolls.** No events are invented for the story, and nobody moralises. He reacts like the kid his age.
+
+## 10. The protagonist's personality (the user's setting)
+
+| Trait | Applies |
+|---|---|
+| **Struggles with sloth** | Off the court: homework, chores, skipped optional workouts (**−0.03 on his development rate**) |
+| **IQ 126, hidden behind an act of about 80** | Off the court: teachers and adults underestimate him |
+| **Very deceptive** | Off the court with adults and on the street. On the court it's part of perfect play anyway |
+| **Decisive overthinker** | He runs every angle and worst case, sets a deadline, picks a path with an exit plan and adjusts in real time. **Off the court this shapes his choices** (routes, fallbacks, decisions under pressure) |
+| **Hates the hood with all his soul** | Wants out. **Basketball is the way out** |
