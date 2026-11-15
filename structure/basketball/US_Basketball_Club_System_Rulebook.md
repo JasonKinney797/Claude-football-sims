@@ -1,6 +1,6 @@
 # THE AMERICAN BASKETBALL CLUB SYSTEM
 ## Official Rulebook
-### Announced in the 2026/27 season · Implemented in stages until the system is established and stable
+### Announced in the 2022/23 season · Full system in play from 2026/27 · Implemented in stages until the system is established and stable
 
 > One pyramid, from a county gym to the NBA Finals. Every club in a published division. Every player's path visible.
 
@@ -307,10 +307,11 @@ A federal **Office for the Basketball Pyramid**, supporting:
 
 | Season | Stage |
 |---|---|
-| **2026/27** | Rulebook announced; academies begin building; G League clubs choose affiliation or independence; AAND and State Division applications open; the platform is built |
-| **2027/28** | Academies start: youth leagues in tiers 1–3; first National Basketball Youth Cup |
-| **Spring 2028** | **University clubs apply** for AAND licences or SD1 places, in the same round as other clubs; initial placement decided |
-| **2028/29** | The AAND and the State Divisions start; **university clubs' first teams** enter the pyramid and their **B teams** play in the NCAA |
+| **2022/23** | Rulebook announced; academies begin building; G League clubs choose affiliation or independence |
+| **2023/24** | Academies keep building; the platform is built; AAND and State Division applications open |
+| **2024/25** | Licensing rounds; academy grades awarded; the platform goes live |
+| **2025/26** | Academies start: youth leagues in tiers 1–3; first National Basketball Youth Cup. **Spring 2026: university clubs apply** for AAND licences or SD1 places, in the same round as other clubs; initial placement decided |
+| **2026/27** | **The full system is in play**: the AAND and the State Divisions start; **university clubs' first teams** enter the pyramid and their **B teams** play in the NCAA |
 | **When established and stable** | First promotion and relegation between all tiers, including the NBA, as decided by the Joint Pyramid Board |
 | **The following season** | The homegrown rule becomes binding |
 
@@ -321,7 +322,7 @@ Rules affecting NBA and G League players' contracts, including the end of the dr
 
 **Article 57. Who can apply**
 1. Any university or college may apply to enter the pyramid with its **varsity basketball team as a club**, under the university's name.
-2. Applications open in **spring 2028**, in the same licence round as other clubs.
+2. Applications open in **spring 2026**, in the same licence round as other clubs.
 
 **Article 58. Initial placement**
 1. The best-licensed university clubs start in the **AAND**; the rest start in **SD1** of their state.
