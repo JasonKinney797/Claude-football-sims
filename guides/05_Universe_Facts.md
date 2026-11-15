@@ -20,6 +20,10 @@
 | **UEFA Elite Summer** | A **pre-season tournament for U14–U19 in Los Angeles every year**. Entry: the **top three of every association's highest-level table** (e.g. Spain: the top three of Elite 1). **UEFA covers any non-professional team** |
 | **Fouling** | No special rule against persistent fouling of one player: as in senior football |
 
-## 3. Perfect characters in general
+## 3. Basketball
+
+US Basketball universe facts and rulings: `06_Basketball.md`.
+
+## 4. Perfect characters in general
 
 See `04_Perfect_Players.md`.

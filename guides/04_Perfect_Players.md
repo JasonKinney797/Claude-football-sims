@@ -48,3 +48,7 @@ The match is played in **four phases**:
 ## 4. When the guarantee starts
 
 **At perfection.** A player who has the *potential* to be perfect only gets his guarantee **the day his level reaches 99**. Before that he plays inside the normal model.
+
+## 5. Basketball
+
+Basketball guarantees and how they're modelled: `06_Basketball.md` §7.
