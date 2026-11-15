@@ -37,7 +37,7 @@
 
 **Article 9 — International football.** Every team plays internationally. The main regions are **Europe, the United States and Saudi Arabia**.
 
-**Article 10 — Match frequency.** Every team plays a **minimum of 2 and a maximum of 4** matches per month.
+**Article 10 — Match frequency.** Every team plays a **minimum of 5 and a maximum of 9** matches per month. Because of split schedules (Article 30), squads rotate naturally: in any given week some players are at RBVA and others at their clubs.
 
 **Article 11 — Match format.** Home matches follow Belgian federation formats for the age group. Away matches follow the host's format.
 
@@ -192,7 +192,7 @@ There is no extended monitoring period.
 | C2 | €237,500 | €118,750 | €118,750 |
 | D2 | €118,750 | €47,500 | €71,250 |
 
-**Article 43 — Domestic transfers below 1B.** €50,000 to the registered club and €50,000 to RBVA (€100,000 total).
+**Article 43 — Domestic transfers below 1B.** **No fee**, unless the receiving club is a **sister or affiliate club of a 1A or 1B club**. In that case the tiered fee applies (Article 41), as for a transfer to that 1A or 1B club.
 
 **Article 44 — Tier Integrity Clause.** If a former RBVA player who left on or after 1 July 2027 is transferred again within **24 months** to a 1A or 1B club or abroad, the difference between the fee originally paid and the tier price applicable when he left RBVA is owed to RBVA and the registered club.
 
@@ -253,6 +253,8 @@ These are not RBVA rules, but they are in force in the RBVA timeline and shape h
 | Interest register | Secret; framed publicly only as "so parents know how many are watching" | Fully public since the first case in February 2032 |
 | Visiting clubs | €1,000 per flying club | Articles 47–48 |
 | FIFA rule | International transfers from 13 | Any age (Part XI) |
+| Match frequency | 2 to 4 matches per month | 5 to 9 matches per month (Article 10) |
+| Domestic transfers below 1B | €50,000 to the registered club and €50,000 to RBVA | No fee, unless the club is a sister or affiliate of a 1A/1B club (Article 43) |
 
 ---
 
