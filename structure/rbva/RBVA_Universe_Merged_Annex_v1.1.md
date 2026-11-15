@@ -159,50 +159,6 @@ A boy whose current level is well below the D line can only be logged if **r × 
 | **Development rate** | **A/B: 1.20× base. C/D: about 1.15×.** On a split schedule the rate is weighted by weeks |
 | **Match frequency** | 5 to 9 a month per team (Art. 10). A split player plays them in his RBVA weeks |
 
-### VI.2 The development model
+### VI.2 Development, catch-up and Uplayer
 
-> **Gain this year = (curve step for his age) × potential × rate + noise**
-
-| Age | Normal curve (share of potential at 1.00×) |
-|---|---|
-| 11 | 45% |
-| 12 | 50% |
-| 13 | 55% |
-| 14 | 61% |
-| 15 | 67% |
-| 16 | 72% |
-| 17 | 77% |
-| 18 | 82% |
-| 19 | 86% |
-| 21 | 90% |
-| 23–24 (peak) | 92% |
-
-The rate starts at **1.00×** and moves with environment and minutes (Elite 1 academy about 1.15, starter +0.05, playing up +0.08, work ethic +0.05, **Uplayer Development +0.05, plus up to +0.03 for individual sessions (VI.4)**, overload −0.05; it decays without training). **The cap is 1.35×.** Potential is a hard ceiling. A perfect player develops physically only.
-
-### VI.3 The catch-up rule
-
-**Who:** only players rolled as **late maturers** at creation (from their height and growth curve). A boy who is behind his curve because he doesn't train or doesn't play gets **no catch-up**.
-
-> **Catch-up this year = k × gap × rate**
-> **gap = (normal curve for his age × potential) − current level** (only when positive)
-
-| Phase | k |
-|---|---|
-| Before his growth spurt | **0.10** |
-| **Growth-spurt years** (rolled and sealed; usually two seasons) | **0.30** |
-| After the spurt, up to 21 | **0.15** |
-| From 21 | **0** |
-
-**Limits:** catch-up only closes the gap, never lifts a player above his curve; **no catch-up in a year his rate falls below 1.00×**.
-
-### VI.4 Uplayer Sundays and the individual session
-
-1. General group session
-2. **Individual session for one boy**, while the rest do the day's pillar group session
-3. Match
-
-**The boys rotate**, one per group per Sunday.
-
-> **Uplayer bonus = +0.05 + 0.03 × (his individual Sundays ÷ Sundays he attended)**
-
-Group size is rolled per band each season. A boy who misses Sundays loses his place in the rotation for those weeks.
+The development model (rates, curve, catch-up rule, ageing) and the Uplayer bonus are in **`guides/03_Models.md`**; Uplayer itself is in **`uplayer/Uplayer_Rulebook.md`**.
