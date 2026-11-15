@@ -12,4 +12,6 @@ All files needed for Claude football sims: RBVA, Uplayer, youth structures.
 | [`structure/rbva/RBVA_Rulebook.md`](structure/rbva/RBVA_Rulebook.md) | The RBVA rulebook (consolidated edition) |
 | [`structure/rbva/RBVA_Universe_Merged_Annex_v1.0.md`](structure/rbva/RBVA_Universe_Merged_Annex_v1.0.md) | How RBVA fits the youth structure and the UEFA Framework; the scouting model; the development model with the catch-up rule |
 
+| [`structure/basketball/US_Basketball_Club_System_Rulebook.md`](structure/basketball/US_Basketball_Club_System_Rulebook.md) | The American Basketball Club System (not football) |
+
 Older versions are in [`structure/archive/`](structure/archive/).
