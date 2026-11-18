@@ -52,6 +52,7 @@ Set by the NBA and USA Basketball in the structuring. Club games are at **weeken
 | **G League Academy League** | 30 (14 East, 16 West) | The same |
 | **AAND Academy League** | 9 in 2025/26, **64 from 2026/27** | 2025/26: one national table. **From 2026/27: four conferences of 16** (East, Midwest, South, West), with the format the NBA league uses |
 | **State Youth Leagues** (tier 4) | Open | **Youth SD1, SD2 and SD3** from 2026/27 (Art. 17.2). Placement by each state, from applications and AAU records |
+| **Youth promotion into the AAND Academy League** (Art. 17.4–17.13, user ruling, November 2026) | — | **Per age group:** top 2 of a Youth SD1 + the club holds the **full AAND Club Licence** + win the **regional youth play-off** (one per AAND conference). One up and one down per conference. **Possible without an AAND senior team.** The place follows the cohort; no promotion out of U19; the G League and NBA Academy Leagues stay closed; a promoted team plays under tier 1–3 rules (no pay-to-play, Arts. 24–25 movement, AAND training compensation) and the whole club is graded under Art. 9 |
 | **National Basketball Youth Cup** | Tiers 1–3 | U14 and older. AAND academies first, then the G League, then the NBA (Art. 18) |
 | **State Youth Cup** | Tier 4 | U14 and older. SD3 first, then SD2, then SD1 (Art. 19) |
 
@@ -66,6 +67,7 @@ Set by the NBA and USA Basketball in the structuring. Club games are at **weeken
 | **Training compensation before 2026/27** | Tier 4 starts in 2026/27, so **academies paid nothing for AAU players they signed in 2025** (Art. 26 only covers tier 4 players) |
 | **G League size** | Fixed at **30**. The Ignite's place went to the Rip City Remix (2024/25). Valley Suns never founded |
 | **Practice courts** | **Almost every NBA club has one practice court, and the seniors use it.** Academies need their own courts: they build, rent or partner (see the structuring) |
+| **Youth teams and the AAND** | **Ruled in November 2026:** a youth team **can** go up into the AAND Academy League on results while its senior team stays in tier 4, **if the club holds the AAND Club Licence**. Written into the rulebook as Art. 17.4–17.13, with the loopholes closed (licence timing and venue, cohort principle, closed NBA/G League leagues, pay-to-play, movement, grading) |
 | **Minutes in youth basketball** | **No minimum-minutes rule** in the rulebook, unlike football's half-a-match rule. The coach and the model decide minutes |
 
 ## 7. Perfect basketball players
