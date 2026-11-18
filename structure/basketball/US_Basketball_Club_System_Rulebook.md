@@ -119,9 +119,22 @@ A club may only be promoted if it holds the licence for the tier it is promoted 
 2. Tier 4 academies are optional.
 
 **Article 17. Youth leagues**
-1. Each tier runs its own youth leagues for its clubs' academies.
+1. Each tier runs its own youth leagues. **A club's youth team plays at the level it has earned**, which can be above or below its senior team's tier (17.4–17.13).
 2. Tier 4 runs **State Youth Leagues** with the same levels and naming: Youth SD1, SD2, SD3.
 3. **Youth divisions move on their own results**, not with the senior team's level.
+
+*Amendment, November 2026 (user ruling): youth promotion between tier 4 and tier 3.*
+
+4. **Youth teams can go up from tier 4 to the AAND Academy League on results**, even if the club's senior team is in tier 4 or the club has no senior team.
+5. **The route mirrors the senior one (Art. 14.2):** per age group, a team must **finish in the top 2 of its Youth SD1**, **its club must hold the AAND Club Licence (Art. 8)**, and it must **win the regional youth play-off**.
+6. **The licence is the full AAND Club Licence**, with no youth-only version. The arena of at least 1,500 must be **owned or contracted as the club's home venue for the whole season**; hiring it for single games doesn't count. **Proof of national travel funding** must cover every team the club has in tier 1–3 youth leagues. The licence must be held by **1 April** to enter the play-off and must still be held on **1 July**, or the place goes to the next eligible team.
+7. **Regional youth play-off:** one per **AAND conference** (East, Midwest, South, West) and **per age group**, between the eligible Youth SD1 teams of the states in that conference. Single games; the higher-placed team plays at home. **One team per conference and age group goes up.**
+8. **Relegation keeps the AAND Academy League at 16 per conference:** in each age group, **the bottom team of each conference goes down** to the Youth SD1 of its state. **This applies to AAND clubs' academy teams too.** A relegated academy team still counts towards its club's Art. 16 obligation (a team per age group). If no eligible team goes up in a conference, the team due to go down stays up (as Art. 10).
+9. **The place follows the cohort.** A team that goes up at U14 plays its **U15** season in the AAND Academy League, and so on up to U19. **There is no promotion out of U19.** A club's new **U12** starts at the level its previous U12 played, so a promoted cohort doesn't pull the age groups below it up.
+10. **The G League and NBA Academy Leagues stay closed.** Nobody goes up into them on results, and nobody goes down out of them.
+11. **One team per club per age group** may play in a tier 1–3 youth league. A club's B team in the same age group stays in tier 4.
+12. **A team in a tier 1–3 youth league follows tier 1–3 rules, whatever its club's senior tier:** **no pay-to-play**, directly or indirectly (membership fees, compulsory camps or travel charges for that team's players) (Art. 21); **youth movement under Arts. 24–25** for its players; and the club pays the **AAND training compensation rate** (Art. 27) when it signs a player from another tier-4 club into that team.
+13. **The whole club becomes a graded academy (Art. 9)** from the season any of its teams plays in a tier 1–3 youth league. **Art. 9.2 then applies to all of the club's recruitment**, including its tier-4 teams: no signing from outside the state before 15 unless the academy is graded Platinum or Gold.
 
 **Article 18. National Basketball Youth Cup (tiers 1–3)**
 1. Age groups **U14 and older**.
