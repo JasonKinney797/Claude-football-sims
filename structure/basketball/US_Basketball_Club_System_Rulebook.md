@@ -161,6 +161,26 @@ Charging players to play is **banned in tiers 1–3**. It is allowed in tier 4.
 **Article 22. School basketball**
 An academy player may also play **high school basketball** if his club allows it. Club matches are scheduled at **weekends** and high school games on **weekdays**.
 
+**Article 22A. Playing up and senior eligibility** *(user ruling, November 2026)*
+1. **Playing up in youth basketball.** A player may play for **any older age group** of his own club, without restriction. He can never play for a younger age group than his birth year allows (Art. 3).
+2. **Senior basketball under 18.** A player under 18 may play senior games only if:
+
+| Senior team | Requirements (boys) | Requirements (girls) |
+|---|---|---|
+| **Non-professional: tier 3 (AAND, including a university club's NCAA B team) and tier 4** | **14 or older** and **officially measured at 6'3" or taller** | 14 or older and 5'11" or taller |
+| **Professional: tier 1 (NBA) and tier 2 (G League)** | **A professional contract**, **14 or older** and **officially measured at 6'5" or taller** | A professional contract, 14 or older and 6'1" or taller |
+
+3. **From 18**, anyone may play senior basketball, without any height condition.
+4. **Age** means the player's actual date of birth: he qualifies on his 14th birthday, not at the start of his birth year.
+5. **Height** counts only when the league's medical staff have measured it, shoes off, **twice, six months apart** (Art. 33). A player who already qualified at 6'3" still needs two official measurements at or above 6'5" for professional teams.
+6. **Senior games** means every senior game: league, cup, play-offs, pre-season, summer league and friendlies. **Practising** with a senior team is not restricted.
+7. **One game a day.** A player may play at most one game per calendar day, across all his teams: youth, senior and high school (Art. 22).
+8. **Cup-tied.** In a knockout competition, a player may play for only **one of his club's teams per season**.
+9. **Post-season.** A player may play in a team's final four, play-off or promotion play-off only if he played at least **a quarter of that team's regular-season games**.
+10. **Own club only.** A player may play up, or play senior games, only for the club he's registered with (Art. 23). The one exception is a loan, from 17 (Art. 30).
+11. **League places stay with the cohort.** A player playing up doesn't change the league his own age group plays in (Art. 17.9).
+12. **High school basketball** is not covered by this article; Art. 22 applies.
+
 ---
 
 ## PART VII: PLAYER MOVEMENT
