@@ -422,11 +422,29 @@ A university club may be promoted to any tier, **including the NBA**, if it hold
 
 **Article 67. Who plays**
 1. **One varsity per school.** A school is one registration with its state association, whatever campuses, programmes or teams it runs under its name. *(Closure: no "national" and "select" varsities of the same school.)*
-2. **Junior varsity is the school's B team.** It plays **only in tier 4**, at least **two levels below** its varsity, and never in the same division. It can't be promoted into tiers 1–3.
+2. **Junior varsity is the school's B team** and the **freshman team its third team**: see **Article 67A**.
 3. **Players:** full-time students of that school, in **grades 9 to 12**, at most **four seasons** of varsity, and **under 19 on 1 September** of the season. *(Closure: no fifth-year or post-graduate varsity players.)*
 4. **One school per season.** A player who has played a varsity game for one school can't play for another school's varsity in the same season. *(Closure: no mid-season school hopping.)*
 5. **Prep schools** enter like any other school.
 6. **Academy players** may play if their club allows (Art. 22); one game a day applies (Art. 22A.7).
+
+**Article 67A. Varsity, JV and freshman teams** *(user ruling, November 2026)*
+1. **A school may field three teams:** its **varsity**, a **junior varsity (JV)** and a **freshman team**. No other teams.
+2. **The freshman team** is for **9th graders only**. Freshman teams play **only other freshman teams**, in **Freshman Divisions** at county or metro level (*[State] HS Freshman [County or metro]*), with standings, a county final, and **no promotion or relegation**.
+3. **JV placement:** the JV plays **only in tier 4**, never in the same division as its varsity, and never above it:
+
+| Varsity in | JV in |
+|---|---|
+| Tiers 1–3 or HS SD1 | HS SD3 |
+| HS SD2 | HS SD3 |
+| HS SD3 | HS SD3, in a different division |
+
+4. **A JV can be promoted up to HS SD3 at most** while its varsity is in HS SD2 or higher. If its **varsity is relegated** so that the JV would be at its level or above it, the JV moves down to keep the gap of point 3 (to a different HS SD3 division if needed).
+5. **Playing for more than one team:** a player may play for any of his school's teams for which he's eligible (a 9th grader for all three, others for the varsity and the JV), **one game a day** (Art. 22A.7).
+6. **Squad freeze:** in **the last five regular-season games** of a team and in **its post-season**, no player may move **between any two of the school's teams**, in either direction.
+7. **Post-season:** a player may play in a team's post-season only if he played **at least a quarter of that team's regular-season games** (as Art. 22A.9).
+8. **No titles above their level:** a JV or freshman team can't be **state champion** (Art. 71.2) and can't enter the **National High School Cup** (Art. 73.4).
+9. **Cut players:** a player who tried out and was not selected for any of his school's teams **can't play for another school's team that season**. He may still change school between seasons.
 
 **Article 68. The season**
 1. **Weekdays only** (Art. 22): club basketball keeps the weekends.
