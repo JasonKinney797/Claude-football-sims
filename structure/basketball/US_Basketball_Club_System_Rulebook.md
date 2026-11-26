@@ -1,6 +1,6 @@
 # THE AMERICAN BASKETBALL CLUB SYSTEM
 ## Official Rulebook
-### Announced in the 2022/23 season · Full system in play from 2026/27 · Implemented in stages until the system is established and stable
+### Announced in the 2022/23 season · Full system in play from 2026/27 · Implemented in stages until the system is established and stable · High School and College Pyramids from 2028/29 (Parts XVII–XVIII)
 
 > One pyramid, from a county gym to the NBA Finals. Every club in a published division. Every player's path visible.
 
@@ -269,6 +269,7 @@ Agents may approach a player only from **six months before he can sign a profess
 1. The **NCAA continues** to run college basketball, in Divisions I, II and III, for every university that **has not become a club**, and for the **B teams of university clubs** (Article 64).
 2. The **NCAA tournament (March Madness)** continues.
 3. The NAIA and the NJCAA continue unchanged.
+4. **From 2028/29, all college basketball is played in the College Pyramid (Part XVIII)**, which replaces points 1–3: the NCAA runs every tier centrally, and Divisions I, II and III, the NAIA and the NJCAA become levels inside it (Art. 81).
 
 **Article 40. Pre-season matches**
 Every pre-season, each **NCAA Division I team** and each **university club first team in the AAND or higher** plays **one to three NBA clubs**.
@@ -391,11 +392,191 @@ A university club may be promoted to any tier, **including the NBA**, if it hold
 
 **Article 64. The compulsory NCAA B team**
 1. **Every university club must have a B team playing in the NCAA.** This is a condition of its club licence.
-2. The B team plays in the **NCAA division** the university belonged to before becoming a club.
+2. The B team plays in the **NCAA division** the university belonged to before becoming a club. **From 2028/29 it is placed in the College Pyramid on merit**, like any other college team (Art. 83).
 3. The B team is made up of **students outside the club's first-team squad**, mostly younger players.
 4. Players may be moved between the first team and the B team during the season.
-5. A player who plays **more than 10 pyramid matches** in a season may not play in that season's **NCAA tournament**.
+5. A player who plays **more than 10 pyramid matches** in a season may not play in that season's **NCAA tournament**. *(From 2028/29 the College Pyramid's matches don't count as pyramid matches; only club matches do.)*
 6. A university club without an NCAA B team **loses its club licence** and is placed in the lowest State Division level of its state the following season.
+
+---
+
+## PART XVII: THE HIGH SCHOOL PYRAMID
+*Added November 2026 (user ruling). Announced in **2026/27**; first season **2028/29**. Boys' varsity basketball.*
+
+**Article 65. Governing bodies**
+1. The **NFHS** runs **tiers 1–3** of the High School Pyramid, their licences and the National High School Cup.
+2. Each **state association** runs **tier 4** in its state.
+3. Disputes between tiers go to an **NFHS appeals panel**, whose decision is final.
+
+**Article 66. The tiers** *(the club pyramid's shape, Art. 4)*
+
+| Tier | League | Schools |
+|---|---|---|
+| 1 | **National High School League (NHSL)** | **30**: East and West conferences of 15 |
+| 2 | **NHSL 2** | **30**: two conferences of 15 |
+| 3 | **High School National Division (HSND)** | **64**: East, Midwest, South and West conferences of 16 |
+| 4 | **State HS Divisions**: **HS SD1** (statewide), **HS SD2** (regional), **HS SD3** (county or metro) | Open entry |
+
+1. Tier 4 follows the naming, small-state combinations and division sizes of **Art. 5 and 6** (*[State] HS SD1*, *Mountain HS SD1*, and so on). Alaska and Hawaii run their own levels.
+2. **Enrolment classes are abolished.** A school plays at the level its varsity earns.
+
+**Article 67. Who plays**
+1. **One varsity per school.** A school is one registration with its state association, whatever campuses, programmes or teams it runs under its name. *(Closure: no "national" and "select" varsities of the same school.)*
+2. **Junior varsity is the school's B team.** It plays **only in tier 4**, at least **two levels below** its varsity, and never in the same division. It can't be promoted into tiers 1–3.
+3. **Players:** full-time students of that school, in **grades 9 to 12**, at most **four seasons** of varsity, and **under 19 on 1 September** of the season. *(Closure: no fifth-year or post-graduate varsity players.)*
+4. **One school per season.** A player who has played a varsity game for one school can't play for another school's varsity in the same season. *(Closure: no mid-season school hopping.)*
+5. **Prep schools** enter like any other school.
+6. **Academy players** may play if their club allows (Art. 22); one game a day applies (Art. 22A.7).
+
+**Article 68. The season**
+1. **Weekdays only** (Art. 22): club basketball keeps the weekends.
+2. Every tier plays a **full-season league**: tiers 1–2 home and away within the conference (**28 games**), tier 3 home and away within the conference (**30 games**), tier 4 as Art. 6.
+3. **Every division, fixture, result and table is on the official platform** (Art. 7).
+
+**Article 69. Hub events (tiers 1–3)**
+1. Tier 1–3 games are played at **hub events**: several schools of one conference meet at one venue, each school playing **one game a day**.
+2. Hubs are held on **Fridays** and in **school holidays** (Thanksgiving, the winter break, Presidents' Day week), set by the NFHS before the season.
+3. Every game keeps a **home team**, and **each school is home in half its games**. A hub venue must meet the **home team's licence** (Art. 72).
+4. The **NFHS pays travel and accommodation** for every hub. *(Closure: no school can be priced out of its tier.)*
+5. **Students miss at most two school days per hub**; the NFHS sets hub dates so that no student misses more than **ten school days a season** for tier 1–3 games.
+
+**Article 70. Promotion and relegation** *(the club rules, Art. 11–14)*
+
+| Tier | Up | Down |
+|---|---|---|
+| **NHSL (1)** | — | The **two schools with the worst records overall** |
+| **NHSL 2 (2)** | The **regular-season champion** and the **play-off winner** | The **bottom two** |
+| **HSND (3)** | The **two best licensed schools** in the **national play-offs** (top 4 of each conference, a 16-school bracket) | The **bottom school of each conference** |
+| **HS SD1 → HSND** | A school in the **top 2 of its HS SD1**, with the **HSND licence**, that wins its **regional play-off** (one per HSND conference; four up) | — |
+| **HS SD1–SD3** | The **top two** | The **bottom two** |
+
+1. **A school may only go up with the licence** of the tier above (Art. 10 applies: otherwise the next eligible school; if none, the school due to go down stays up).
+2. **Timing:** the first season is **2028/29**; the first moves apply in **2029/30**.
+
+**Article 71. Champions**
+1. **National high school champion:** the winner of the **NHSL final four** (the top two of each conference), at a neutral venue in March.
+2. **State champion:** the **HS SD1 champion** of each state (or of each combined SD1, Art. 66.1).
+
+**Article 72. Licences** *(the club licences, Art. 8)*
+
+| Licence | Gym | Other |
+|---|---|---|
+| **NHSL** | **3,000 seats** | **Certified head coach**; the school's academic standard (Art. 72.2) |
+| **NHSL 2** | **2,000 seats** | As above |
+| **HSND** | **1,000 seats** | Certified head coach |
+| Tier 4 | — | Registration with the state association |
+
+1. The gym must be **owned by the school or contracted as its home gym for the whole season**; hiring it for single games doesn't count (as Art. 17.6). Travel is covered by the NFHS (Art. 69.4), so no travel funding is required.
+2. **Academic standard:** every varsity player must meet his **state's academic eligibility rules**, checked by the NFHS **each semester**. A player who fails is out until he meets them again.
+3. The licence must be held by **1 April** to enter a play-off and still on **1 July**.
+
+**Article 73. The National High School Cup** *(the American Basketball Cup, Art. 15)*
+1. Open to **tiers 1–3** and the **HS SD1 champions**.
+2. Entry: **HS SD1 champions and HSND schools** first; then **NHSL 2**; then **NHSL**.
+3. **Single games; the lower-tier school plays at home**, at a hub if the distance needs one. Final in March.
+4. **Varsities only.**
+
+**Article 74. Launch**
+
+| Season | Stage |
+|---|---|
+| **2026/27** | **Announced** by the NFHS |
+| **2027/28** | Licensing round; **initial placement** decided by the NFHS on the schools' 2027/28 results and national rankings, with licences; tier 4 placed by each state association. Played under the old rules |
+| **2028/29** | **First season** of the High School Pyramid |
+
+---
+
+## PART XVIII: THE COLLEGE PYRAMID
+*Added November 2026 (user ruling). Announced in **2026/27**; first season **2028/29**. Men's college basketball; women's college basketball continues under the NCAA's existing rules until it is designed.*
+
+**Article 75. Governing body**
+1. The **NCAA runs every tier centrally**: competitions, scheduling, officiating, eligibility, licences and **transfer windows**.
+2. **Media rights** for every tier and for March Madness are **sold centrally by the NCAA** and shared out **by tier**, with a set share for every tier, including tier 4 (as Art. 50).
+3. **Conferences no longer run competitions.** They may continue as associations of universities, without leagues, tournaments or media deals of their own.
+
+**Article 76. The tiers** *(the club pyramid's shape, Art. 4)*
+
+| Tier | League | Teams |
+|---|---|---|
+| 1 | **NCAA National League** | **30**: East and West conferences of 15 |
+| 2 | **NCAA National League 2** | **30**: two conferences of 15 |
+| 3 | **NCAA National Division** | **64**: East, Midwest, South and West conferences of 16 |
+| 4 | **College State Divisions**: **College SD1** (statewide), **College SD2** (regional), **College SD3** (county or metro) | Every other college team |
+
+Tier 4 follows the naming, small-state combinations and division sizes of **Art. 5 and 6**.
+
+**Article 77. Who plays**
+1. **One team per university or college** in the College Pyramid:
+   1. the **first team** of a university that is not a club (Art. 39);
+   2. the **B team** of a university club (Art. 64), which is that university's college team.
+2. **Players:** enrolled students who meet the NCAA's academic and eligibility rules, checked centrally **each semester**.
+3. A player moving from a university club's first team to its B team plays for the B team **from the next game**; Art. 64.4 and 64.5 still apply.
+
+**Article 78. The season**
+1. **November to early March**, then March Madness.
+2. Tiers 1–2: home and away within the conference (**28 games**); tier 3: home and away within the conference (**30 games**); tier 4: as Art. 6.
+3. The pre-season games against NBA clubs (Art. 40) stay, for every tier 1–3 team.
+4. **Everything is on the official platform** (Art. 7).
+
+**Article 79. Promotion and relegation** *(the club rules, Art. 11–14, fitted to March Madness)*
+
+| Tier | Up | Down |
+|---|---|---|
+| **National League (1)** | — | The **two teams with the worst records overall** |
+| **National League 2 (2)** | The **regular-season champion** and **the tier-2 team that goes furthest in March Madness** | The **bottom two** |
+| **National Division (3)** | The **two tier-3 teams that go furthest in March Madness** | The **bottom team of each conference** |
+| **College SD1 → National Division** | The **winner of each regional qualifier** (Art. 80.3): four up | — |
+| **College SD1–SD3** | The **top two** | The **bottom two** |
+
+1. **Only licensed teams go up** (Art. 10 applies).
+2. **"Furthest in March Madness":** ties (two teams out in the same round) go to the **better national ranking** on Selection Sunday.
+3. **Timing:** the first season is **2028/29**; the first moves apply in **2029/30**.
+
+**Article 80. March Madness**
+1. **68 teams**, single elimination, the **First Four**, Selection Sunday, the Final Four: **all kept**.
+2. **Who qualifies:**
+
+| From | Places |
+|---|---|
+| **National League (1)** | **20**: the **top 10 of each conference** |
+| **National League 2 (2)** | **12**: the **top 6 of each conference** |
+| **National Division (3)** | **16**: the **top 4 of each conference** |
+| **College SD1s (4)** | **20**: through **four regional qualifiers**, one per National Division conference (East, Midwest, South, West), between the SD1 champions of the states in that region, **five places per region** |
+| **Total** | **68** |
+
+3. **Regional qualifiers:** single games in early March; the qualifier's **winner** also earns promotion (Art. 79).
+4. **The First Four** is played by the **eight tier-4 qualifiers with the lowest national ranking**.
+5. **Seeding:** by the **NCAA's national ranking (NET)**, in an **S-curve over four regions**. No selection committee.
+6. **Eligibility:** a player must have played **at least a quarter of his team's regular-season games** (as Art. 22A.9). Art. 64.5 still applies. *(Closure: no strengthening a B team with first-team players for March only.)*
+
+**Article 81. Divisions II and III, the NAIA and the NJCAA**
+1. From 2028/29 their teams play in the **College State Divisions**, at the level their placement or results give them.
+2. **Their separate national championships end.** Every college team's route is the College Pyramid and March Madness.
+3. Each institution keeps its own **scholarship and financial-aid rules**.
+
+**Article 82. National League champion**
+The team with the **best regular-season record in the National League** is **National League champion**, a separate title from March Madness. Ties go to head-to-head, then the national ranking.
+
+**Article 83. Licences** *(the club licences, Art. 8)*
+
+| Licence | Arena | Other |
+|---|---|---|
+| **National League** | **10,000 seats** | Audited finances; **women's basketball funded to the same standard** (as Art. 63); a team **Academic Progress Rate of 930 or higher** |
+| **National League 2** | **5,000 seats** | As above |
+| **National Division** | **2,500 seats** | Proof of **national travel funding**; APR 930 or higher |
+| Tier 4 | — | Registration with the NCAA |
+
+1. The arena must be **owned or contracted as the team's home for the whole season** (as Art. 17.6).
+2. The licence must be held by **1 March** to go up and still on **1 July**.
+3. **Initial placement and every promotion depend on the licence**; a university club's B team uses the university's own arena and finances, **counted separately from the club's** (Art. 60).
+
+**Article 84. Launch**
+
+| Season | Stage |
+|---|---|
+| **2026/27** | **Announced** by the NCAA |
+| **2027/28** | Licensing round; **initial placement** by the **2027/28 national ranking (NET)**, with licences: the top 30 licensed teams in tier 1, the next 30 in tier 2, the next 64 in tier 3; everyone else in tier 4 by state. Played under the old rules, with the old conference tournaments and the old March Madness selection |
+| **2028/29** | **First season** of the College Pyramid; the new March Madness |
 
 ---
 
