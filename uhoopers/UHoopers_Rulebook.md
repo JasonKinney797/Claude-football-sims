@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | **Owner-director** | The user |
-| **Where** | Los Angeles. **Training centre** on land chosen by the user (bought without complications) |
+| **Where** | Los Angeles. **Training centre: the UHoop Centre**, Pine Avenue and Euclid Avenue, Chino (open from August 2028). **Cal Poly Pomona** (Kellogg Arena and the auxiliary gym) is the second gym and the fall-back |
 | **Money** | **$250 million to start**; further funding from the user's brother overseas and his network |
 | **Day** | **Sundays** (club games are on Saturdays, high school games on weekdays) |
 | **Consent** | Joining means agreeing that minors' faces are shown on social media |
@@ -86,5 +86,5 @@ UHoopers' coaches look for **three established Youth SD1 or AAND clubs in the Lo
 
 | Account | Content |
 |---|---|
-| **@uhoopers TikTok** | Game highlights, training, a weekly "guess the player" |
+| **@uhoopers TikTok** | **8 posts a week**: 3 general highlights, 2 tips from the coaches, 2 highlights of a specific player, 1 "guess the player" |
 | **Instagram** | New players, pro contracts, home-game invitations |
