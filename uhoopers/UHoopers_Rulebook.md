@@ -11,7 +11,7 @@
 |---|---|
 | **Owner-director** | The user |
 | **Where** | Los Angeles. **Training centre: the UHoop Centre**, Pine Avenue and Euclid Avenue, Chino (open from August 2028). **Cal Poly Pomona** (Kellogg Arena and the auxiliary gym) is the second gym and the fall-back |
-| **Money** | **$250 million to start**; further funding from the user's brother overseas and his network |
+| **Money** | **$250 million to start**; **from 2029–30 the user's brother funds $30 million a year, indefinitely**; further funding from his network (the naming partner) |
 | **Day** | **Sundays** (club games are on Saturdays, high school games on weekdays) |
 | **Consent** | Joining means agreeing that minors' faces are shown on social media |
 
@@ -25,6 +25,8 @@
 
 **Bands train separately. Age groups play separately.**
 
+**Summer camp:** **four weeks** every summer, **$20 a week or $10 a day**, open to anyone aged 8–19. The coaches use it to scout: an **invitation** for players at invited level, a **business card** for good-potential players who aren't there yet. The coaches rest for the rest of the summer.
+
 | Band | Age groups |
 |---|---|
 | 1 | U8–U10 |
@@ -36,6 +38,8 @@
 ## 3. Who can join
 
 **Anyone.** A player registered at a **tier 1–3 club** needs his **club's written permission** (Art. 22B). Tier-4 players and players without a club need nothing.
+
+**Standing policy:** when a player signs with a tier 1–3 club (an NBA academy, a G League or AAND club, or a college club in tiers 1–3) and that club **refuses permission**, UHoopers **lets him go**. He can come back if the permission comes later.
 
 ## 4. Selection for Competitive
 
