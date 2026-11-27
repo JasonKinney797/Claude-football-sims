@@ -11,7 +11,7 @@
 |---|---|
 | **Owner-director** | The user |
 | **Where** | Los Angeles. **Training centre: the UHoop Centre**, Pine Avenue and Euclid Avenue, Chino (open from August 2028). **Cal Poly Pomona** (Kellogg Arena and the auxiliary gym) is the second gym and the fall-back |
-| **Money** | **$250 million to start**; **from 2029–30 the user's brother funds $30 million a year, indefinitely**; further funding from his network (the naming partner) |
+| **Money** | **$250 million to start**; **from 2029–30 the user's brother funds $30 million a year, indefinitely**; further funding from his network (the naming partner: $15M a year 2026–31, **renewed at $18M a year for 2031–36**) |
 | **Day** | **Sundays** (club games are on Saturdays, high school games on weekdays) |
 | **Consent** | Joining means agreeing that minors' faces are shown on social media |
 
@@ -21,7 +21,7 @@
 |---|---|
 | **Development** | **Everyone enrolled** trains in the Development group of his **band**. **$1,500 a year**, or **free when invited by UHoopers**. Paying or invited makes no difference: same band, sessions and selection |
 | **Competitive** | **Not a separate group.** Players are selected from the Development sessions for **domestic friendlies**: **7–9 per age group per season**. UHoopers pays all travel and housing for away matches. The friendlies never count in any competition (Art. 7.5, Art. 22B) |
-| **Pro and Pro+** | **Not yet.** UHoopers has no reputation; the user may add them later |
+| **Pro and Pro+** | **Not yet.** They open once UHoopers is **consistently playing tier 1–2 opposition**: **in two seasons running, every U15–U19 age group plays at least one NBA or G League academy**. The user sets their rules when they open |
 
 **Bands train separately. Age groups play separately.**
 
@@ -47,7 +47,7 @@
 
 ## 5. Staff
 
-**Three perfect coaches per band (15 in all).** A perfect coach has **perfect tactical intelligence, perfect man management, perfect training, perfect scouting and perfect player vision**. **There are no perfect players.**
+**35 perfect coaches from 2031–32** (15 until then): **U8–U10: 5, U11–U12: 6, U13–U14: 7, U15–U16: 8, U17–U19: 9**, in proportion to each band's size. A perfect coach has **perfect tactical intelligence, perfect man management, perfect training, perfect scouting and perfect player vision**. **There are no perfect players.**
 
 In games, a perfect coach makes every change the moment it's needed; after every loss the model checks whether a perfect coach could have prevented it.
 
