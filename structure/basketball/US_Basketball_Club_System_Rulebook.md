@@ -161,6 +161,13 @@ Charging players to play is **banned in tiers 1–3**. It is allowed in tier 4.
 **Article 22. School basketball**
 An academy player may also play **high school basketball** if his club allows it. Club matches are scheduled at **weekends** and high school games on **weekdays**.
 
+**Article 22B. Development programmes outside the pyramid** *(user ruling, November 2026)*
+1. A **development programme** is an organisation that trains players but is **not a club**. It **may not register players or enter teams** in any division or cup.
+2. It may train players **registered at any club**. A player at a **tier 1–3 club** needs his **club's written permission**.
+3. Its matches are **friendlies**: they **never count** in any competition (Art. 7.5). One game a day applies (Art. 22A.7).
+4. When a pyramid club signs a player, **training compensation** (Arts. 26–27, 41) goes to the **clubs where he was registered**, never to a programme.
+5. A programme that searches for professional contracts for players is bound by **Art. 35** (when an approach may start) and **Art. 34** (minors' contracts).
+
 **Article 22A. Playing up and senior eligibility** *(user ruling, November 2026)*
 1. **Playing up in youth basketball.** A player may play for **any older age group** of his own club, without restriction. He can never play for a younger age group than his birth year allows (Art. 3).
 2. **Senior basketball under 18.** A player under 18 may play senior games only if:

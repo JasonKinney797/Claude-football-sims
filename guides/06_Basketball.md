@@ -71,6 +71,7 @@ Set by the NBA and USA Basketball in the structuring. Club games are at **weeken
 | **Practice courts** | **Almost every NBA club has one practice court, and the seniors use it.** Academies need their own courts: they build, rent or partner (see the structuring) |
 | **Youth promotion and relegation** | **Ruled in November 2026:** youth teams go up and down **through every tier on results**, independently of the senior team, **if the club holds the licence of the tier above**. Rulebook Art. 17.4–17.18 |
 | **Minutes in youth basketball** | **No minimum-minutes rule** in the rulebook, unlike football's half-a-match rule. The coach and the model decide minutes |
+| **Development programmes** (Art. 22B) | **Not clubs:** they train players but can't register them or enter competitions. Tier 1–3 players need club permission; their games are friendlies; training compensation always goes to clubs. **UHoopers** (`uhoopers/UHoopers_Rulebook.md`) is one |
 | **Playing up and senior games** (Art. 22A) | **Ruled in November 2026.** Any older youth age group, no restriction. **Senior games under 18:** non-pro teams (AAND and tier 4) need **14 and 6'3"** (girls 5'11"); pro teams (NBA, G League) need **a pro contract, 14 and 6'5"** (girls 6'1"). Height measured officially, twice, six months apart. **From 18 no conditions.** One game a day; cup-tied to one team per competition; post-season only after a quarter of the regular season; own club only |
 
 ## 7. Perfect basketball players
